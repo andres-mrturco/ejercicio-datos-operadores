@@ -1,3 +1,3 @@
 # Ejercicio datos-operdores
 
-![](./Content/console-log.png)
+![](./assets/console-log.png)
